@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/React-Redux-QuotesAPI-App/static/js/main.b2d6dda9.chunk.js",
+    "main.js.map": "/React-Redux-QuotesAPI-App/static/js/main.b2d6dda9.chunk.js.map",
+    "runtime-main.js": "/React-Redux-QuotesAPI-App/static/js/runtime-main.0a8f3d08.js",
+    "runtime-main.js.map": "/React-Redux-QuotesAPI-App/static/js/runtime-main.0a8f3d08.js.map",
+    "static/js/2.83a2ac4e.chunk.js": "/React-Redux-QuotesAPI-App/static/js/2.83a2ac4e.chunk.js",
+    "static/js/2.83a2ac4e.chunk.js.map": "/React-Redux-QuotesAPI-App/static/js/2.83a2ac4e.chunk.js.map",
+    "index.html": "/React-Redux-QuotesAPI-App/index.html",
+    "static/js/2.83a2ac4e.chunk.js.LICENSE.txt": "/React-Redux-QuotesAPI-App/static/js/2.83a2ac4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a8f3d08.js",
+    "static/js/2.83a2ac4e.chunk.js",
+    "static/js/main.b2d6dda9.chunk.js"
+  ]
+}
